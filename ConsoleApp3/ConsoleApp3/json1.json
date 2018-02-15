@@ -1,0 +1,32 @@
+﻿{
+  "Cykelbud": {
+    "Budnummer": null,
+    "Fornavn": null,
+    "Efternavn": null,
+    "Cykel": [ null ],
+    "Budcentral": null
+  },
+
+  "Budcentral": {
+    "Navn": null,
+    "Adresse": null,
+    "Cykelbud": [ null ],
+    "Cykel": [ null ]
+  },
+
+  "Adresse": {
+    "VejNavn": null,
+    "Nummer": null,
+    "By": null
+  },
+
+  "By": {
+    "Navn": null
+  },
+
+  "Cykel": {
+    "Stelnummer": null,
+    "Type": null
+  }
+}
+

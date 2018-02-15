@@ -1,0 +1,15 @@
+C:\Users\jonas\source\repos\GUI3\GUI3\bin\Debug\GUI3.exe.config
+C:\Users\jonas\source\repos\GUI3\GUI3\bin\Debug\GUI3.exe
+C:\Users\jonas\source\repos\GUI3\GUI3\bin\Debug\GUI3.pdb
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\GUI3.csprojResolveAssemblyReference.cache
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\MainWindow.g.cs
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\App.g.cs
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\GUI3_MarkupCompile.cache
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\GUI3_MarkupCompile.lref
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\MainWindow.baml
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\GUI3.g.resources
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\GUI3.Properties.Resources.resources
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\GUI3.csproj.GenerateResource.Cache
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\GUI3.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\GUI3.exe
+C:\Users\jonas\source\repos\GUI3\GUI3\obj\Debug\GUI3.pdb

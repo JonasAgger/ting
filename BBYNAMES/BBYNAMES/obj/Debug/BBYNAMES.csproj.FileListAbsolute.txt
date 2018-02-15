@@ -1,0 +1,15 @@
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\bin\Debug\BBYNAMES.exe.config
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\bin\Debug\BBYNAMES.exe
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\bin\Debug\BBYNAMES.pdb
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\BBYNAMES.csprojResolveAssemblyReference.cache
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\MainWindow.g.cs
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\App.g.cs
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\BBYNAMES_MarkupCompile.cache
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\BBYNAMES_MarkupCompile.lref
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\MainWindow.baml
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\BBYNAMES.g.resources
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\BBYNAMES.Properties.Resources.resources
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\BBYNAMES.csproj.GenerateResource.Cache
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\BBYNAMES.csproj.CoreCompileInputs.cache
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\BBYNAMES.exe
+C:\Users\jonas\source\repos\BBYNAMES\BBYNAMES\obj\Debug\BBYNAMES.pdb
